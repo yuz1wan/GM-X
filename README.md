@@ -8,6 +8,8 @@
 
 ![Pipeline](./assets/pipeline.jpg)
 ## 🚀 Introduction
+**GM-X is a research project led by [rhos.ai](https://www.rhos.ai/).**
+
 GM-X is an ongoing research initiative designed to address the current challenges in robot learning, where task structure often lags behind data scale. By integrating Human Activity Knowledge (HAKE) with Object Affordances, we have developed a systematic task-design framework that focuses on identifying and evaluating a robot's ability to handle diverse, long-tail, and complex interaction tasks. Through this effort, we aim to provide a more comprehensive assessment of embodied agents and encourage the development of increasingly sophisticated and diverse robotic datasets.
 
 As the inaugural milestone toward a "Robot Learning Olympics," we have released **GM-100**. This benchmark comprises 100 meticulously curated tasks covering extensive long-tail behaviors, supported by over 13,000 expert trajectories collected across multiple robotic platforms. GM-X serves as a foundational ecosystem, fostering a transparent and collaborative environment to push the boundaries of general-purpose robotic intelligence.
