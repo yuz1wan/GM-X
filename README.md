@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](./LICENSE)
 
 
-![Pipeline](./assets/pipeline.pdf)
+![Pipeline](./assets/pipeline.jpg)
 ## 🚀 Introduction
 GM-X is an ongoing research initiative designed to address the current challenges in robot learning, where task structure often lags behind data scale. By integrating Human Activity Knowledge (HAKE) with Object Affordances, we have developed a systematic task-design framework that focuses on identifying and evaluating a robot's ability to handle diverse, long-tail, and complex interaction tasks. Through this effort, we aim to provide a more comprehensive assessment of embodied agents and encourage the development of increasingly sophisticated and diverse robotic datasets.
 
