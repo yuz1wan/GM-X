@@ -18,6 +18,14 @@ As the inaugural milestone toward a "Robot Learning Olympics," we have released 
 - **[2026-01-18]** Preview version of the Project Page is live! Check it out [here](https://www.rhos.ai/research/gm-100).
 - **[2026-01-16]** GM-100 Paper released on arXiv.
 
+## 📦 Dataset
+The GM-100 dataset is publicly available for research purposes. You can access and download the dataset from our [Hugging Face page](https://huggingface.co/rhos-ai).  
+| Platform | Lerobot | HDF5 | 
+| :---: | :---: | :---: |
+| Agilex Cobot Magic | [Download](https://huggingface.co/datasets/rhos-ai/gm100-cobotmagic-lerobot) | / |
+| Dobot Xtrainer | Processing... | [Download](https://huggingface.co/datasets/rhos-ai/gm100-xtrainer) |
+| More Platforms on the Way | Stay Tuned! | Stay Tuned! |
+
 
 ## 🤝 Community & Contact
 For general discussions, questions, or sharing your work related to GM-X, feel free to join our WeChat or Feishu groups by scanning the QR codes below.
@@ -29,7 +37,7 @@ Feel free to submit issues if QR codes are not accessible.
 
 | WeChat | Feishu |
 | :---: | :---: |
-| ![WeChat QR](assets/Wechat.jpg) | ![Feishu QR](assets/Feishu.png) |
+| ![WeChat QR](assets/Wechat.jpg) | ![Feishu QR](assets/Feishu.JPG) |
 
 ##  citation
 If you find our work useful in your research, please consider citing:
