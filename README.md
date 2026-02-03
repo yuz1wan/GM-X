@@ -15,6 +15,7 @@ GM-X is an ongoing research initiative designed to address the current challenge
 As the inaugural milestone toward a "Robot Learning Olympics," we have released **GM-100**. This benchmark comprises 100 meticulously curated tasks covering extensive long-tail behaviors, supported by over 13,000 expert trajectories collected across multiple robotic platforms. GM-X serves as a foundational ecosystem, fostering a transparent and collaborative environment to push the boundaries of general-purpose robotic intelligence.
 
 ## 📢 News
+- **[2026-02-03]** [Task Object Purchase Links](https://docs.google.com/spreadsheets/d/1iUWwBSBhfWMjdNOwm4OGQbNpg-Qmwblp/edit?usp=sharing&ouid=111542188496207675206&rtpof=true&sd=true) are now available on the Project Page.
 - **[2026-01-18]** Preview version of the Project Page is live! Check it out [here](https://www.rhos.ai/research/gm-100).
 - **[2026-01-16]** GM-100 Paper released on arXiv.
 
